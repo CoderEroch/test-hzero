@@ -6,6 +6,14 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/test-register/pom.xml" />
+        <option value="$PROJECT_DIR$/test-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/test-config/pom.xml" />
+        <option value="$PROJECT_DIR$/test-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/test-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/test-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/test-iam/pom.xml" />
+        <option value="$PROJECT_DIR$/test-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/test-admin-saas/pom.xml" />
       </list>
     </option>
   </component>

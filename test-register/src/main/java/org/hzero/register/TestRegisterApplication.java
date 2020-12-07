@@ -16,7 +16,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * 服务注册中心启动类
  * </p>
  * 
- * @author 28948 2020/12/07 16:21
+ * @author 28948 2020/12/07 16:49
  */
 public class TestRegisterApplication {
     
