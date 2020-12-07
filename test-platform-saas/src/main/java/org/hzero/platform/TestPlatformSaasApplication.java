@@ -8,10 +8,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 @SpringBootApplication
 
-public class TestplatformsaasApplication {
+public class TestPlatformSaasApplication {
     
         public static void main(String[] args) {
-            SpringApplication.run(TestplatformsaasApplication.class, args);
+            SpringApplication.run(TestPlatformSaasApplication.class, args);
         }
 
 }
