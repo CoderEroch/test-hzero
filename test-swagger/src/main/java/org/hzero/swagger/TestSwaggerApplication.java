@@ -8,10 +8,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 @SpringBootApplication
 
-public class TestswaggerApplication {
+public class TestSwaggerApplication {
     
         public static void main(String[] args) {
-            SpringApplication.run(TestswaggerApplication.class, args);
+            SpringApplication.run(TestSwaggerApplication.class, args);
         }
 
 }
